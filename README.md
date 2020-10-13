@@ -4,7 +4,8 @@ messenger for web/phones
 
 in alpha 1.1(current version)
 
-=======auto scroll========\n
+=======auto scroll========
+
 //currently working on mozilla firefox 84/ie10+/safari on pc and android(z flip & galaxy s8)/iphone x
 
 **AVOID USING WEBKIT FOR THIS (everything is done in javascript due to compatibility reasons)
@@ -40,8 +41,10 @@ in alpha 1.1(current version)
 -possibly listing by most frequently talked user (client side)
 
 =======DM system========
+
 *for future version:
 -have seperate chat show up for different combination of users
 - chat should be saved so that previous chat shows up when returned
+
 ========================
 
