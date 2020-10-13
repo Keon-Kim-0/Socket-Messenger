@@ -1,6 +1,8 @@
 # Messenger
 messenger for web/phones
 
+please use npm run dev
+
 
 in alpha 1.1(current version)
 
