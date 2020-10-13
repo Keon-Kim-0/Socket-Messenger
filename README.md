@@ -38,6 +38,8 @@ in alpha 1.1(current version)
 
 =======chat features======
 
+-phone client to phone client
+
 -different color text for user name and message text
 
 -announcement system (currently has 'disconnect' and 'connect')
@@ -47,6 +49,8 @@ in alpha 1.1(current version)
 -auto line break (\n) counting in the username(different element) characters to prevent chat elements sticking out of <div>
 
 *for future version:
+
+-emoji for pc clients
 
 -sent out text(you) should be text-alligned to the right and be classed differently client-side(or else all text will be alligned right-side)
 
