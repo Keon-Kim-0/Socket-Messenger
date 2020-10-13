@@ -8,7 +8,9 @@ please use npm run dev
 - styling is very barebones. need major improvements
 - needs better logo/name
 - configure your git for cross-OS compatibility (LF & CRLF)
+
 $ git config --global core.autocrlf true
+
 $ git config --global core.autocrlf input
 
 in alpha 1.1(current version)
