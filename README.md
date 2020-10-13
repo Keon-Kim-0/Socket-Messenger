@@ -39,4 +39,9 @@ in alpha 1.1(current version)
 -list should be managed server side
 -possibly listing by most frequently talked user (client side)
 
+=======DM system========
+*for future version:
+-have seperate chat show up for different combination of users
+- chat should be saved so that previous chat shows up when returned
+========================
 
