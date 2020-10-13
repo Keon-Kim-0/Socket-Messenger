@@ -13,6 +13,9 @@ $ git config --global core.autocrlf true
 
 $ git config --global core.autocrlf input
 
+
+
+
 in alpha 1.1(current version)
 
 =======auto scroll========
