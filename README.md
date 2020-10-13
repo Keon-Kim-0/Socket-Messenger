@@ -3,6 +3,11 @@ messenger for web/phones
 
 please use npm run dev
 
+-general notes-
+
+- styling is very barebones. need major improvements
+- needs better logo/name
+
 
 in alpha 1.1(current version)
 
