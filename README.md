@@ -38,9 +38,5 @@ in alpha 1.1(current version)
 -needs a right side menu that hides unless clicked/hovered. shows list of currently online user ID's (server-side variable userid)
 -list should be managed server side
 -possibly listing by most frequently talked user (client side)
-=======DM system========
-*for future version:
--have seperate chat show up for different combination of users
--chat should be saved so that previous chat shows up when returned
-========================
+
 
