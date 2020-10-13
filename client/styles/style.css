@@ -1,0 +1,117 @@
+body{
+//overflow: hidden;
+}
+.small{
+  font-family: 'Alex Brush', cursive;
+  font-size: 40px;
+  padding:20px;
+  //background-color: grey;
+  width:300px;
+  background: radial-gradient(circle, rgba(0,0,0,1) 0%, rgba(121,121,121,1) 71%, rgba(255,255,255,0) 96%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.population{
+  font-family: 'Chilanka', cursive;
+  color:rgba(197, 162, 124, 1);
+}
+.clientName{
+  font-family: 'Chilanka', cursive;
+  color:rgba(216, 216, 141, 1);
+}
+.chatText{
+  color:rgba(71, 71, 71, 1);
+}
+.messenger{
+  color:black;
+}
+.chatbox{
+  border-radius: 30px;
+  padding:5px 65px 2px 7px;
+  border:none;
+  box-shadow: 0px 1px 4px rgba(170,170,170,1);
+  font-family: 'Chilanka', cursive;
+  font-size: 18px;
+}
+.chatbox:focus{
+  outline: none;
+}
+.chat{
+  //background-color: green;
+  margin-bottom: 100px;
+  max-width: 500px;
+  list-style-type: none;
+  font-size: 18px;
+  font-family: 'Chilanka', cursive;
+  height:70%
+}
+.chatForm{
+  position:fixed;
+  bottom:30px;
+  left:15px;
+}
+.chatButton{
+  margin-left: -60px;
+  border:none;
+  background-color:white;
+  font-size: 16px;
+  font-family: 'Chilanka', cursive;
+  color:rgba(98, 191, 192, 1);
+}
+.announcement{
+  color:rgba(148, 214, 167, 1);
+}
+.chatSection{
+  position:fixed;
+  bottom:0;
+  left:0;
+  height: 100%;
+  width: 100%;
+  //background-color:red;
+  background: linear-gradient(0deg, rgba(88,88,88,1) 0px, rgba(171,171,171,1) 0px, rgba(219,219,219,0) 20px);
+}
+li{
+  margin-top: 13px;
+}
+@media (pointer:none), (pointer:coarse) {
+  body{
+    width: 500px;
+  }
+  .announcement{
+    color:rgba(148, 214, 167, 1);
+  }
+  .chat{
+    //background-color: green;
+    max-width: 500px;
+    list-style-type: none;
+    font-size: 42px;
+    font-family: 'Chilanka', cursive;
+  }
+  .clientName{
+    font-size:80px;
+    font-family: 'Chilanka', cursive;
+    color:rgba(216, 216, 141, 1)
+  }
+  .population{
+    font-size:80px;
+    font-family: 'Chilanka', cursive;
+    color:rgba(197, 162, 124, 1)
+  }
+  .chatbox{
+    border-radius: 30px;
+    padding:5px 250px 2px 7px;
+    border:none;
+    box-shadow: 1px 2px 4px rgba(170,170,170,1);
+    font-family: 'Chilanka', cursive;
+    font-size: 60px;
+    width:70%;
+  }
+  .chatButton{
+    margin-left: -180px;
+    border:none;
+    background-color:white;
+    font-size: 50px;
+    font-family: 'Chilanka', cursive;
+    color:rgba(98, 191, 192, 1);
+  }
+}

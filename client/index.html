@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link href="https://fonts.googleapis.com/css2?family=Chilanka&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Alex+Brush&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="styles/style.css">
+  </head>
+<body class='body'>
+  <div class="case">
+    <h2 class='small'>Keon's Messenger</h2>
+    <h2 id='population' class="population">as</h2>
+    <h2 id='clientName' class="clientName"><h2>
+      <div class='Anchor'>
+        <ul id="events" class="chat">
+        </ul>
+      </div>
+      <div class="chatSection">
+            <form id='chatForm'class='chatForm'><input type="search" autocomplete="off" id="chat" class="chatbox" placeholder="chat"><button id="say" class="chatButton">Send</button></form>
+      </div>
+      <ul id='userList'>
+      </ul>
+    </div>
+
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="src/client.js"></script>
+    </body>
+    </html>
