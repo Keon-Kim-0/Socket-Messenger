@@ -65,7 +65,7 @@ in alpha 1.1(current version)
 
 -have seperate chat show up for different combination of users
 
-- chat should be saved so that previous chat shows up when returned
+-chat should be saved so that previous chat shows up when returned
 
 ========================
 
