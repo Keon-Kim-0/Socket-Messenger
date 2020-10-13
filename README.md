@@ -4,7 +4,7 @@ messenger for web/phones
 
 in alpha 1.1(current version)
 
-=======auto scroll========
+=======auto scroll========\n
 //currently working on mozilla firefox 84/ie10+/safari on pc and android(z flip & galaxy s8)/iphone x
 
 **AVOID USING WEBKIT FOR THIS (everything is done in javascript due to compatibility reasons)
